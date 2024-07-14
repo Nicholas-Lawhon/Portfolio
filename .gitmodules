@@ -1,9 +1,6 @@
 [submodule "Coded Correspondence"]
 	path = Coded Correspondence
 	url = https://github.com/Nicholas-Lawhon/Coded-Correspondence.git
-[submodule "Expense-Tracker"]
-	path = Expense-Tracker
-	url = https://github.com/Nicholas-Lawhon/Expense-Tracker
 [submodule "Abruptly-Goblins"]
 	path = Abruptly-Goblins
 	url = https://github.com/Nicholas-Lawhon/Abruptly-Goblins
